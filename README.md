@@ -1,24 +1,4 @@
 # simon-the-game
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+One of the variations of the game "Simon".
+The goal of the game is to remember the sequence of flashes and sounds shown to the player and subsequently reproduce it as part of a “round” of the game.
